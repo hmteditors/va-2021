@@ -18,4 +18,6 @@ using PolytonicGreek
 repo = EditingRepository(pwd(), "editions", "dse", "config")
 surf = Cite2Urn("urn:cite2:hmt:msA.v1:100v")
 
-diplomaticnodes(repo, surf)
+sdse = EditorsRepo.surfaceDse(repo, surf)
+u = sdse[1,1]
+diplomaticnodes(repo, u)
