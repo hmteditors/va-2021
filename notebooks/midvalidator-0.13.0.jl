@@ -20,6 +20,8 @@ begin
 	Pkg.instantiate()	
 	using PlutoUI
 	using CitableText
+	using CitableCorpus
+	using CitablePhysicalText
 	using CitableObject
 	using CitableImage
 	using CitableTeiReaders
@@ -509,8 +511,8 @@ begin
 end
 
 # ╔═╡ Cell order:
-# ╟─8cd70daf-566d-423d-931c-e5021ad2778a
 # ╟─766e600d-200c-4421-9a21-a8fa0aa6a4a7
+# ╟─8cd70daf-566d-423d-931c-e5021ad2778a
 # ╟─17ebe116-0d7f-4051-a548-1573121a33c9
 # ╟─35255eb9-1f54-4f9d-8c58-2d450e09dff9
 # ╟─617ce64a-d7b1-4f66-8bd0-f7a240a929a7
