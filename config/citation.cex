@@ -1,3 +1,7 @@
 urn|file|converter|diplomatic|normalized|orthography
-urn:cts:greekLit:tlg0012.tlg001.msA:|VenetusA-Iliad-08.xml|divLineReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidNormalizedBuilder("Normalized edition builder","normed")|literaryGreek()
-urn:cts:greekLit:tlg5026.msA.hmt:8|VenetusA-Scholia-08.xml|groupedThreeDivReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidNormalizedBuilder("Normalized edition builder","normed")|literaryGreek()
+urn:cts:greekLit:tlg0012.tlg001.msA:|VenetusA-Iliad-08.xml|divLineReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidNormalizedBuilder("Normalized edition builder","normed")|msGreek()
+urn:cts:greekLit:tlg5026.msA.hmt:8|VenetusA-Scholia-08.xml|groupedThreeDivReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidNormalizedBuilder("Normalized edition builder","normed")|msGreek()
+urn:cts:greekLit:tlg5026.msAim.hmt:8|VenetusA-Scholia-08.xml|groupedThreeDivReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidNormalizedBuilder("Normalized edition builder","normed")|msGreek()
+urn:cts:greekLit:tlg5026.msAint.hmt:8|VenetusA-Scholia-08.xml|groupedThreeDivReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidNormalizedBuilder("Normalized edition builder","normed")|msGreek()
+urn:cts:greekLit:tlg5026.msAext.hmt:8|VenetusA-Scholia-08.xml|groupedThreeDivReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidNormalizedBuilder("Normalized edition builder","normed")|msGreek()
+urn:cts:greekLit:tlg5026.msAil.hmt:8|VenetusA-Scholia-08.xml|groupedThreeDivReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidNormalizedBuilder("Normalized edition builder","normed")|msGreek()
