@@ -1,5 +1,9 @@
 urn|citationScheme|groupName|workTitle|versionLabel|exemplarLabel|online|language
-urn:cts:greekLit:tlg5026:8|book, scholion|Homeric scholia|Scholia to the Iliad|Venetus A||true|grc
+urn:cts:greekLit:tlg5026.msA.hmt:8|book, scholion|Homeric scholia|Main scholia to the Iliad|Venetus A||true|grc
+urn:cts:greekLit:tlg5026.msAim.hmt:8|book, scholion|Homeric scholia|Intermarginal scholia to the Iliad|Venetus A||true|grc
+urn:cts:greekLit:tlg5026.msAint.hmt:8|book, scholion|Homeric scholia|Interior scholia to the Iliad|Venetus A||true|grc
+urn:cts:greekLit:tlg5026.msAext.hmt:8|book, scholion|Homeric scholia|Exterior scholia to the Iliad|Venetus A||true|grc
+urn:cts:greekLit:tlg5026.msAil.hmt:8|book, scholion|Homeric scholia|Interlinear scholia to the Iliad|Venetus A||true|grc
 urn:cts:greekLit:tlg0012.tlg001.msA:8|book, line|Homeric poetry|Iliad|Venetus A manuscript||true|grc
 
 
